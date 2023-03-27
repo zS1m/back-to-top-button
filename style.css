@@ -1,0 +1,28 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.first {
+  display: flex;
+  justify-content: center;
+  height: 80vh;
+  background-color: #212121;
+}
+.first span {
+  position: fixed;
+  margin: 5vh 0;
+  font-size: 36px;
+  line-height: 52px;
+  background-image: linear-gradient(to bottom right, #b2dfdb, #03a9f4);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.second {
+  height: 80vh;
+  background-color: #505050;
+}
+.third {
+  height: 80vh;
+  background-color: #757575;
+}
