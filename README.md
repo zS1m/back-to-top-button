@@ -1,5 +1,9 @@
 # back-to-top-button.js
 
+A simple, elegant back to top(scroll to top) button using IntersectionObserver
+
+[DEMO](https://zs1m.github.io/back-to-top-button.js/)
+
 ## Introduction
 **"back-to-top-button.js"** is a simple  JavaScript plugin that adds a button to your web page, allowing you to quickly scroll back to the top of the document with a single click. The button is automatically shown or hidden based on the user's scrolling position, using the *Intersection Observer API*.  
 The plugin is customizable and easy to use, and can be added to any web page or application with just a few lines of code. It's perfect for long pages, blog posts, e-commerce sites, or any other content-rich website that requires smooth and convenient navigation.
